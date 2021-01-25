@@ -1,0 +1,9 @@
+body {
+  overflow: hidden;
+}
+.submit-area {
+  max-width: 600px;
+}
+#transaction-area {
+  display: none;
+}
